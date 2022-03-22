@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coral-shift-145404",
+  "private_key_id": "a5c2aac1f27f3c364d743894c25438442b5d5caa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpQEsA2Cr2wvU0\nrOWJV0VoioBb5GvNZitFb/2MHB8EA8NVZfIdyoxE2Wbyh4mWc9xge6YzO5B28ryP\nt1Q6LhyZhglqXz8nvgkbbYUEa/ZH0N9JZbZX2tq/44xeqJaSMNsHdRwiE3O3/x2v\npoKMXjem7k0NtPbdZVA5RD6lMnILqQJyT9cak/e+YmUtS6vZ+PEqzjLI+7Jltu6T\nLuHEDaRNBrCFaU02sbnKef86XUZ+NSkdIhVffUjHWUh5RZIJlheQ5WcHfAoqMhZr\nBggvuSkUvV7/SxQ0jv1VOh2xeb/rI3I8mqBSBzPW+AODRuP8UIGpu8YMa4rWVsx5\nE929PPX5AgMBAAECggEAD7w/fOOcEvcLLwuIB53KgS6nQmPZNe5yxXDlBLq0k336\nEh15RhXHtrrznEbHnupEqd+1EvxNsRFeQIpN1V7mH8vbYj1atMoxNJCZFlEnQ4QC\nzmMbcc2SGtb//Oj1nr/WDTpxFCX00z1vuB3l80DrMaTkGwshDHJX5AsZO+iVu8mj\nBhTYy8F02g1pSivV9zUi3imFiStJB3jMI9kw0aC2q2yrrxcO4erQ4TIfTPhStxFf\nSJCaCIbBDZ7LQpZnqlGNL/EOgz2N2b8rHMClgpBYvuEcrMTC55uwoBKyvDjJtr0y\n+sfQ0k622piP4vwTPtH+rtuXB3JnPw2FpFVKVTFL5QKBgQDaNib1nzPoThvU9yPL\n876jyqs5bCmdRvv+LIxF2g27mfPg862tJwthoHwmXDhh2Cmyra9F5Ys3nJQC+fMl\nPIpBuPplD60IAdAsBgtB1P9YKYRsI2ESbMxisgRsbJr7wO0llGeWW4RIWwB+WGJt\niKTclkYUmQ8xsNyHBzbACSNvrwKBgQDGj5uWiwlQoAk/mfqpBn3Gnpjhzg9KZ+Lp\ne7aJ0CNGAo1oQ21PRDlH51AibtGsf+QfFoGzZ5gA7vJxbfEQi/SJm1JN9iANZ72u\n52fV+a0dSxuOfTwpLN3HOdJKwTa/0K5OrLQghSGa+DslDifNw6hjdEB24Su/0Bys\neQJbEVj21wKBgFu7zi8N6YVsaLjj2JGh+2/iAI9YUDpFICSfV6z52TIXq3XTGx0i\nv98f13FM7Yr8k7MA3yE0OY18bqC9sSDjTYAJooIfz+8AzCHlvI/FWj8W3QuU5/cV\n8+o9yixGj/TsCwX0WIPWH0tHrnJu95nyitQM/JMmMUQDhQHi33plnRcTAoGAR347\nqjfDkdkdm13ox+VDcjl2mI8mKEdBh4n4zqQ3nySaH7lvaUQKT950lwFJ04905tCm\nwJ8DNwrSFo9cZfXOhaF8P//nyIva21gMphmxAEQj1uk2uSijbfFey3XILcaIjGFY\ntgDZeb/5I712DXtubOjVsTggFX9sY5lqhLm5S58CgYARIevchA4iXe+/cvhgreC/\nTQPoDJdtwsETHkTpIvJQr1rM/y7PG6KNBZTwaRog7FZs3WAtQ7mOvIuVKEXoPSTs\nCLXEHs71zDy/Hzy1BUgBcQTU/82KmuXfVZ8DPmIwcF6A8+L1hf55/32c85ev97U4\n0+YZN+k9FhRo6S20VlOECw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-ai@coral-shift-145404.iam.gserviceaccount.com",
+  "client_id": "103450708554576244840",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-ai%40coral-shift-145404.iam.gserviceaccount.com"
+}
